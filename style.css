@@ -181,8 +181,8 @@ main{
 }
 
 .block_for_text{
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 7%;
+  margin-right: 7%;
 }
 .background_picture{
   background-image: url("image/bg2.jpg");
